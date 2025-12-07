@@ -1,3 +1,4 @@
+import React, { useState, useEffect } from 'react';
 import { InputGroup } from './components/InputGroup';
 import { ResultCard } from './components/ResultCard';
 import { LampSelector } from './components/LampSelector';
